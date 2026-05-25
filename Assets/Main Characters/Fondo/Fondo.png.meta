@@ -590,10 +590,10 @@ TextureImporter:
       name: Fondo_3
       rect:
         serializedVersion: 2
-        x: 539
-        y: 899
-        width: 84
-        height: 78
+        x: 548
+        y: 906
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: Fondo_4
       rect:
         serializedVersion: 2
-        x: 635
-        y: 898
-        width: 84
-        height: 78
+        x: 644
+        y: 907
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,8 +636,8 @@ TextureImporter:
         serializedVersion: 2
         x: 729
         y: 898
-        width: 84
-        height: 78
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: Fondo_6
       rect:
         serializedVersion: 2
-        x: 822
-        y: 900
-        width: 84
-        height: 78
+        x: 830
+        y: 907
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: Fondo_7
       rect:
         serializedVersion: 2
-        x: 917
-        y: 899
-        width: 84
-        height: 78
+        x: 935
+        y: 913
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -920,10 +920,10 @@ TextureImporter:
       name: Fondo_18
       rect:
         serializedVersion: 2
-        x: 540
-        y: 808
-        width: 84
-        height: 78
+        x: 552
+        y: 814
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -944,8 +944,8 @@ TextureImporter:
         serializedVersion: 2
         x: 633
         y: 806
-        width: 84
-        height: 78
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,10 +964,10 @@ TextureImporter:
       name: Fondo_20
       rect:
         serializedVersion: 2
-        x: 727
-        y: 808
-        width: 84
-        height: 78
+        x: 738
+        y: 814
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -986,10 +986,10 @@ TextureImporter:
       name: Fondo_21
       rect:
         serializedVersion: 2
-        x: 820
-        y: 807
-        width: 84
-        height: 78
+        x: 830
+        y: 815
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1008,10 +1008,10 @@ TextureImporter:
       name: Fondo_22
       rect:
         serializedVersion: 2
-        x: 915
-        y: 808
-        width: 84
-        height: 78
+        x: 926
+        y: 817
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1074,10 +1074,10 @@ TextureImporter:
       name: Fondo_25
       rect:
         serializedVersion: 2
-        x: 635
-        y: 664
-        width: 84
-        height: 134
+        x: 643
+        y: 671
+        width: 60
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1097,9 +1097,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1462
-        y: 631
-        width: 73
-        height: 143
+        y: 644
+        width: 74
+        height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,10 +1140,10 @@ TextureImporter:
       name: Fondo_28
       rect:
         serializedVersion: 2
-        x: 92
-        y: 455
-        width: 84
-        height: 78
+        x: 106
+        y: 464
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1206,10 +1206,10 @@ TextureImporter:
       name: Fondo_31
       rect:
         serializedVersion: 2
-        x: 913
-        y: 663
-        width: 84
-        height: 134
+        x: 925
+        y: 670
+        width: 60
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1228,10 +1228,10 @@ TextureImporter:
       name: Fondo_32
       rect:
         serializedVersion: 2
-        x: 94
-        y: 373
-        width: 84
-        height: 78
+        x: 106
+        y: 387
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1250,10 +1250,10 @@ TextureImporter:
       name: Fondo_33
       rect:
         serializedVersion: 2
-        x: 7
-        y: 372
-        width: 84
-        height: 78
+        x: 17
+        y: 386
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1272,10 +1272,10 @@ TextureImporter:
       name: Fondo_34
       rect:
         serializedVersion: 2
-        x: 180
-        y: 535
-        width: 84
-        height: 78
+        x: 191
+        y: 542
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,10 +1294,10 @@ TextureImporter:
       name: Fondo_35
       rect:
         serializedVersion: 2
-        x: 178
-        y: 454
-        width: 84
-        height: 78
+        x: 189
+        y: 463
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1316,10 +1316,10 @@ TextureImporter:
       name: Fondo_36
       rect:
         serializedVersion: 2
-        x: 540
-        y: 663
-        width: 84
-        height: 134
+        x: 551
+        y: 672
+        width: 60
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1338,10 +1338,10 @@ TextureImporter:
       name: Fondo_37
       rect:
         serializedVersion: 2
-        x: 726
-        y: 663
-        width: 84
-        height: 134
+        x: 738
+        y: 670
+        width: 60
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1360,10 +1360,10 @@ TextureImporter:
       name: Fondo_38
       rect:
         serializedVersion: 2
-        x: 820
-        y: 663
-        width: 84
-        height: 134
+        x: 830
+        y: 670
+        width: 60
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1382,10 +1382,10 @@ TextureImporter:
       name: Fondo_39
       rect:
         serializedVersion: 2
-        x: 7
-        y: 536
-        width: 84
-        height: 78
+        x: 16
+        y: 544
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1404,10 +1404,10 @@ TextureImporter:
       name: Fondo_40
       rect:
         serializedVersion: 2
-        x: 93
-        y: 535
-        width: 84
-        height: 78
+        x: 104
+        y: 541
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1426,10 +1426,10 @@ TextureImporter:
       name: Fondo_41
       rect:
         serializedVersion: 2
-        x: 179
-        y: 372
-        width: 84
-        height: 78
+        x: 190
+        y: 377
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1448,10 +1448,10 @@ TextureImporter:
       name: Fondo_42
       rect:
         serializedVersion: 2
-        x: 265
-        y: 536
-        width: 84
-        height: 78
+        x: 275
+        y: 542
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1470,10 +1470,10 @@ TextureImporter:
       name: Fondo_43
       rect:
         serializedVersion: 2
-        x: 347
-        y: 454
-        width: 84
-        height: 78
+        x: 361
+        y: 460
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1734,10 +1734,10 @@ TextureImporter:
       name: Fondo_55
       rect:
         serializedVersion: 2
-        x: 6
-        y: 454
-        width: 84
-        height: 78
+        x: 18
+        y: 461
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1756,10 +1756,10 @@ TextureImporter:
       name: Fondo_56
       rect:
         serializedVersion: 2
-        x: 264
-        y: 371
-        width: 84
-        height: 78
+        x: 276
+        y: 386
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1778,10 +1778,10 @@ TextureImporter:
       name: Fondo_57
       rect:
         serializedVersion: 2
-        x: 347
-        y: 536
-        width: 84
-        height: 78
+        x: 361
+        y: 543
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2020,10 +2020,10 @@ TextureImporter:
       name: Fondo_68
       rect:
         serializedVersion: 2
-        x: 99
-        y: 241
-        width: 84
-        height: 78
+        x: 111
+        y: 250
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2042,10 +2042,10 @@ TextureImporter:
       name: Fondo_69
       rect:
         serializedVersion: 2
-        x: 98
-        y: 144
-        width: 84
-        height: 78
+        x: 109
+        y: 153
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,10 +2064,10 @@ TextureImporter:
       name: Fondo_70
       rect:
         serializedVersion: 2
-        x: 193
-        y: 146
-        width: 84
-        height: 78
+        x: 207
+        y: 149
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2086,10 +2086,10 @@ TextureImporter:
       name: Fondo_71
       rect:
         serializedVersion: 2
-        x: 285
-        y: 240
-        width: 84
-        height: 78
+        x: 296
+        y: 260
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2108,10 +2108,10 @@ TextureImporter:
       name: Fondo_72
       rect:
         serializedVersion: 2
-        x: 476
-        y: 53
-        width: 84
-        height: 78
+        x: 495
+        y: 65
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2130,10 +2130,10 @@ TextureImporter:
       name: Fondo_73
       rect:
         serializedVersion: 2
-        x: 567
-        y: 145
-        width: 84
-        height: 78
+        x: 577
+        y: 155
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2152,10 +2152,10 @@ TextureImporter:
       name: Fondo_74
       rect:
         serializedVersion: 2
-        x: 570
-        y: 51
-        width: 84
-        height: 78
+        x: 581
+        y: 74
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2174,10 +2174,10 @@ TextureImporter:
       name: Fondo_75
       rect:
         serializedVersion: 2
-        x: 348
-        y: 375
-        width: 84
-        height: 78
+        x: 360
+        y: 374
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2196,10 +2196,10 @@ TextureImporter:
       name: Fondo_76
       rect:
         serializedVersion: 2
-        x: 435
-        y: 455
-        width: 84
-        height: 78
+        x: 443
+        y: 462
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2218,10 +2218,10 @@ TextureImporter:
       name: Fondo_77
       rect:
         serializedVersion: 2
-        x: 435
-        y: 535
-        width: 84
-        height: 78
+        x: 445
+        y: 544
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2240,10 +2240,10 @@ TextureImporter:
       name: Fondo_78
       rect:
         serializedVersion: 2
-        x: 433
-        y: 371
-        width: 84
-        height: 78
+        x: 454
+        y: 386
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2548,10 +2548,10 @@ TextureImporter:
       name: Fondo_92
       rect:
         serializedVersion: 2
-        x: 7
-        y: 239
-        width: 84
-        height: 78
+        x: 23
+        y: 246
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2570,10 +2570,10 @@ TextureImporter:
       name: Fondo_93
       rect:
         serializedVersion: 2
-        x: 8
-        y: 52
-        width: 84
-        height: 78
+        x: 17
+        y: 57
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2592,10 +2592,10 @@ TextureImporter:
       name: Fondo_94
       rect:
         serializedVersion: 2
-        x: 192
-        y: 239
-        width: 84
-        height: 78
+        x: 208
+        y: 253
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2614,10 +2614,10 @@ TextureImporter:
       name: Fondo_95
       rect:
         serializedVersion: 2
-        x: 192
-        y: 50
-        width: 84
-        height: 78
+        x: 205
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2636,10 +2636,10 @@ TextureImporter:
       name: Fondo_96
       rect:
         serializedVersion: 2
-        x: 379
-        y: 239
-        width: 84
-        height: 78
+        x: 388
+        y: 249
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2658,10 +2658,10 @@ TextureImporter:
       name: Fondo_97
       rect:
         serializedVersion: 2
-        x: 474
-        y: 241
-        width: 84
-        height: 78
+        x: 483
+        y: 247
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2680,10 +2680,10 @@ TextureImporter:
       name: Fondo_98
       rect:
         serializedVersion: 2
-        x: 668
-        y: 233
-        width: 90
-        height: 91
+        x: 684
+        y: 247
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2702,10 +2702,10 @@ TextureImporter:
       name: Fondo_99
       rect:
         serializedVersion: 2
-        x: 756
-        y: 233
-        width: 90
-        height: 91
+        x: 775
+        y: 255
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2724,10 +2724,10 @@ TextureImporter:
       name: Fondo_100
       rect:
         serializedVersion: 2
-        x: 843
-        y: 233
-        width: 90
-        height: 91
+        x: 856
+        y: 244
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2944,10 +2944,10 @@ TextureImporter:
       name: Fondo_110
       rect:
         serializedVersion: 2
-        x: 284
-        y: 148
-        width: 84
-        height: 78
+        x: 295
+        y: 152
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2966,10 +2966,10 @@ TextureImporter:
       name: Fondo_111
       rect:
         serializedVersion: 2
-        x: 288
-        y: 52
-        width: 84
-        height: 78
+        x: 297
+        y: 62
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2988,10 +2988,10 @@ TextureImporter:
       name: Fondo_112
       rect:
         serializedVersion: 2
-        x: 379
-        y: 145
-        width: 84
-        height: 78
+        x: 395
+        y: 155
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3010,10 +3010,10 @@ TextureImporter:
       name: Fondo_113
       rect:
         serializedVersion: 2
-        x: 474
-        y: 143
-        width: 84
-        height: 78
+        x: 485
+        y: 151
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3208,10 +3208,10 @@ TextureImporter:
       name: Fondo_122
       rect:
         serializedVersion: 2
-        x: 8
-        y: 146
-        width: 84
-        height: 78
+        x: 21
+        y: 156
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3230,10 +3230,10 @@ TextureImporter:
       name: Fondo_123
       rect:
         serializedVersion: 2
-        x: 98
-        y: 51
-        width: 84
-        height: 78
+        x: 109
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3252,10 +3252,10 @@ TextureImporter:
       name: Fondo_124
       rect:
         serializedVersion: 2
-        x: 568
-        y: 240
-        width: 84
-        height: 78
+        x: 579
+        y: 244
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3274,10 +3274,10 @@ TextureImporter:
       name: Fondo_125
       rect:
         serializedVersion: 2
-        x: 382
-        y: 50
-        width: 84
-        height: 78
+        x: 390
+        y: 59
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3538,10 +3538,10 @@ TextureImporter:
       name: Fondo_137
       rect:
         serializedVersion: 2
-        x: 265
-        y: 454
-        width: 84
-        height: 78
+        x: 274
+        y: 464
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
