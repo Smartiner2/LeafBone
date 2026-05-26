@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
 
     public Transform groundCheck;
     public LayerMask groundLayer;
-    public float groundCheckRadius = 1f;
+    public float groundCheckRadius = 0.2f;
 
     private Rigidbody2D rb;
     private float horizontalInput;
@@ -55,9 +55,15 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    // (Opcional) Dibuja el círculo de groundCheck en el editor para que puedas verlo
     void OnDrawGizmosSelected()
+{
+    if (groundCheck != null)
     {
-        
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(
+            groundCheck.position,
+            groundCheckRadius
+        );
     }
+}
 }
