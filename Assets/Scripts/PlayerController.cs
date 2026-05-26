@@ -14,16 +14,43 @@ public class PlayerController : MonoBehaviour
     private float horizontalInput;
     private bool isGrounded;
 
+    private Animator animator;
+
     // Start se llama una vez al inicio
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     // Update se llama una vez por frame (ideal para inputs)
     void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
+        FlipSprite();
+
+        if (horizontalInput != 0) 
+        { 
+            animator.SetBool("isRunning", true); 
+        } 
+        
+        else 
+        { 
+            animator.SetBool("isRunning", false); 
+        } 
+
+        
+        void FlipSprite() 
+        { 
+            if (horizontalInput > 0) 
+            { 
+                transform.localScale = new Vector3(1, 1, 1); 
+            } 
+            else if (horizontalInput < 0) 
+            { 
+                transform.localScale = new Vector3(-1, 1, 1); 
+            } 
+        }
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
@@ -52,7 +79,15 @@ public class PlayerController : MonoBehaviour
     // Funci�n para voltear el sprite del jugador
     void FlipSprite()
     {
+        if (horizontalInput > 0) 
+        { 
+            transform.localScale = new Vector3(1, 1, 1); 
+        } 
         
+        else if (horizontalInput < 0) 
+        { 
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
     }
 
     void OnDrawGizmosSelected()
