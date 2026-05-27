@@ -3,7 +3,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpForce = 10f;
 
     public Transform groundCheck;
     public LayerMask groundLayer;
@@ -38,26 +37,11 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("isRunning", false); 
         } 
 
-
-        if (Input.GetButtonDown("Jump") && isGrounded)
-        {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-        }
     }
 
     // FixedUpdate se llama en un intervalo fijo (ideal para físicas)
     void FixedUpdate()
     { 
-        isGrounded = Physics2D.OverlapCircle(
-            groundCheck.position,
-            groundCheckRadius,
-            groundLayer
-        );
-
-        if(isGrounded)
-        {
-            Debug.Log("TOCANDO SUELO");
-        }
 
         // Mover personaje
         rb.linearVelocity = new Vector2(
