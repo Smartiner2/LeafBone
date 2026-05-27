@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: f13f5c8711d32434387ffb7f950bea8b
+guid: 44dcad5cc5189164894eacc71fadf4ed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6923188316897733977
-    second: salto_0
-  - first:
-      213: 5104642928478132615
-    second: salto_1
-  - first:
-      213: -5006346630430571533
-    second: salto_2
-  - first:
-      213: -7582253496403596742
-    second: salto_3
-  - first:
-      213: 6712224338716393019
-    second: salto_4
+      213: -212804087270718459
+    second: PanelMuerte_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -63,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: salto_0
+      name: PanelMuerte_0
       rect:
         serializedVersion: 2
-        x: 89
-        y: 302
-        width: 228
-        height: 536
+        x: 37
+        y: 250
+        width: 1012
+        height: 1421
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,96 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95de2d5f71b141060800000000000000
-      internalID: 6923188316897733977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: salto_1
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 298
-        width: 225
-        height: 532
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7891629a2b557d640800000000000000
-      internalID: 5104642928478132615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: salto_2
-      rect:
-        serializedVersion: 2
-        x: 754
-        y: 544
-        width: 247
-        height: 469
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f346bea342e58ab0800000000000000
-      internalID: -5006346630430571533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: salto_3
-      rect:
-        serializedVersion: 2
-        x: 1134
-        y: 436
-        width: 376
-        height: 525
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3a66e51e9c66c690800000000000000
-      internalID: -7582253496403596742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: salto_4
-      rect:
-        serializedVersion: 2
-        x: 1585
-        y: 215
-        width: 324
-        height: 510
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3efbe1297c962d50800000000000000
-      internalID: 6712224338716393019
+      spriteID: 5044a736fc7fb0df0800000000000000
+      internalID: -212804087270718459
       vertices: []
       indices: 
       edges: []
@@ -248,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      salto_0: 6923188316897733977
-      salto_1: 5104642928478132615
-      salto_2: -5006346630430571533
-      salto_3: -7582253496403596742
-      salto_4: 6712224338716393019
+      PanelMuerte_0: -212804087270718459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

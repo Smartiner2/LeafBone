@@ -62,6 +62,8 @@ public class PlayerController : MonoBehaviour
         { 
             transform.localScale = new Vector3(-1, 1, 1);
         }
+
+        animator.SetBool("isJumping", !CheckGround.isGrounded);
     }
 
     void OnDrawGizmosSelected()
