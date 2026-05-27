@@ -5,6 +5,9 @@ using TMPro;
 public class GameOverManager : MonoBehaviour
 {
     public GameObject panelMuerte;
+    public GameObject panelVictoria;
+    
+    public bool tieneItemEspecial = false;
 
 
     public int puntosHongos = 150;
@@ -64,6 +67,8 @@ public class GameOverManager : MonoBehaviour
         puntosTotales += puntos;
 
         ActualizarHUD();
+
+        VerificarVictoria();
     }
 
     public void SumarDiamante(int puntos)
@@ -73,6 +78,8 @@ public class GameOverManager : MonoBehaviour
 
 
         ActualizarHUD();
+
+        VerificarVictoria();
     }
 
     void ActualizarHUD()
@@ -92,6 +99,19 @@ public class GameOverManager : MonoBehaviour
         textoTotal.text =
             "Puntos Totales: " +
             puntosTotales;
+    }
+
+    void VerificarVictoria()
+    {
+        if (
+        puntosHongos >= 150 &&
+        puntosDiamantes >= 100 &&
+        tieneItemEspecial)
+        {
+            panelVictoria.SetActive(true);
+            Time.timeScale = 0f;
+            Debug.Log("¡VICTORIA!");
+        }
     }
 
 
