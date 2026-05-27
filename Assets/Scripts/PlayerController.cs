@@ -39,18 +39,6 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("isRunning", false); 
         } 
 
-        
-        void FlipSprite() 
-        { 
-            if (horizontalInput > 0) 
-            { 
-                transform.localScale = new Vector3(1, 1, 1); 
-            } 
-            else if (horizontalInput < 0) 
-            { 
-                transform.localScale = new Vector3(-1, 1, 1); 
-            } 
-        }
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
@@ -67,7 +55,10 @@ public class PlayerController : MonoBehaviour
             groundLayer
         );
 
-        Debug.Log(isGrounded);
+        if(isGrounded)
+        {
+            Debug.Log("TOCANDO SUELO");
+        }
 
         // Mover personaje
         rb.linearVelocity = new Vector2(
