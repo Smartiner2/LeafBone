@@ -7,19 +7,18 @@ public class GameOverManager : MonoBehaviour
     public GameObject panelMuerte;
 
 
-    public int puntosHongos;
-    public int puntosDiamantes;
+    public int puntosHongos = 150;
+    public int puntosDiamantes = 100;
     public int puntosTotales;
 
     public TextMeshProUGUI textoHongos;
     public TextMeshProUGUI textoDiamantes;
     public TextMeshProUGUI textoTotal;
 
-    public int hongosRecogidos;
-    public int diamantesRecogidos;
 
     public int totalHongos;
     public int totalDiamantes;
+
 
 
     public static GameOverManager instance;
@@ -64,8 +63,6 @@ public class GameOverManager : MonoBehaviour
         puntosHongos += puntos;
         puntosTotales += puntos;
 
-        hongosRecogidos += puntos;
-
         ActualizarHUD();
     }
 
@@ -74,7 +71,6 @@ public class GameOverManager : MonoBehaviour
         puntosDiamantes += puntos;
         puntosTotales += puntos;
 
-        diamantesRecogidos += puntos;
 
         ActualizarHUD();
     }
@@ -83,13 +79,13 @@ public class GameOverManager : MonoBehaviour
     {
         textoHongos.text =
             "Hongos: " +
-            hongosRecogidos +
+            puntosHongos +
             "/" +
             totalHongos;
 
         textoDiamantes.text =
             "Diamantes: " +
-            diamantesRecogidos +
+            puntosDiamantes +
             "/" +
             totalDiamantes;
 
