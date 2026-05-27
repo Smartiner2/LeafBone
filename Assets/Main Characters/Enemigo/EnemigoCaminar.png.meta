@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 0c9bf95552482d940849280cfc415896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3657288425965941578
+    second: EnemigoCaminar_0
+  - first:
+      213: -9167017155360797163
+    second: EnemigoCaminar_1
+  - first:
+      213: 3921289677210353641
+    second: EnemigoCaminar_2
+  - first:
+      213: 7824669402710888868
+    second: EnemigoCaminar_3
+  - first:
+      213: 1082099597460646193
+    second: EnemigoCaminar_4
+  - first:
+      213: 355001908464241766
+    second: EnemigoCaminar_5
+  - first:
+      213: -1257013959202073730
+    second: EnemigoCaminar_6
+  - first:
+      213: -1645714842476069698
+    second: EnemigoCaminar_7
+  - first:
+      213: -4658615604472272229
+    second: EnemigoCaminar_8
+  - first:
+      213: -1514562641584313880
+    second: EnemigoCaminar_9
+  - first:
+      213: -7392253758379618126
+    second: EnemigoCaminar_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemigoCaminar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 325
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f8de327c41c230800000000000000
+      internalID: 3657288425965941578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecec4577638c080800000000000000
+      internalID: -9167017155360797163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 316
+        width: 325
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef778f7f283b6630800000000000000
+      internalID: 3921289677210353641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a153796d5fc69c60800000000000000
+      internalID: 7824669402710888868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 313
+        width: 325
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1392c36c9d3640f00800000000000000
+      internalID: 1082099597460646193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 128
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc898da583de400800000000000000
+      internalID: 355001908464241766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_6
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 297
+        width: 325
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.51931566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739d0cc6703e8ee0800000000000000
+      internalID: -1257013959202073730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc30a4f11f3929e0800000000000000
+      internalID: -1645714842476069698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_8
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 303
+        width: 326
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 46, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa6564ac5495fb0800000000000000
+      internalID: -4658615604472272229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_9
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 82
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92a4e4d413bfae0800000000000000
+      internalID: -1514562641584313880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoCaminar_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 302
+        width: 325
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b09c326f50796990800000000000000
+      internalID: -7392253758379618126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f41795d061a68a43ae69a14991af7aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemigoCaminar_0: 3657288425965941578
+      EnemigoCaminar_1: -9167017155360797163
+      EnemigoCaminar_10: -7392253758379618126
+      EnemigoCaminar_2: 3921289677210353641
+      EnemigoCaminar_3: 7824669402710888868
+      EnemigoCaminar_4: 1082099597460646193
+      EnemigoCaminar_5: 355001908464241766
+      EnemigoCaminar_6: -1257013959202073730
+      EnemigoCaminar_7: -1645714842476069698
+      EnemigoCaminar_8: -4658615604472272229
+      EnemigoCaminar_9: -1514562641584313880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
