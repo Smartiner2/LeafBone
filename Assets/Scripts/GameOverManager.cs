@@ -6,27 +6,23 @@ public class GameOverManager : MonoBehaviour
 {
     public GameObject panelMuerte;
     public GameObject panelVictoria;
-    
+
     public bool tieneItemEspecial = false;
 
+    // PUNTOS ACTUALES
+    public int puntosHongos = 0;
+    public int puntosDiamantes = 0;
+    public int puntosTotales = 0;
 
-    public int puntosHongos = 150;
-    public int puntosDiamantes = 100;
-    public int puntosTotales;
+    // METAS PARA GANAR
+    public int metaHongos = 150;
+    public int metaDiamantes = 100;
 
     public TextMeshProUGUI textoHongos;
     public TextMeshProUGUI textoDiamantes;
     public TextMeshProUGUI textoTotal;
 
-
-    public int totalHongos;
-    public int totalDiamantes;
-
-
-
     public static GameOverManager instance;
-
-
 
     private void Awake()
     {
@@ -41,7 +37,6 @@ public class GameOverManager : MonoBehaviour
     public void MostrarPantallaMuerte()
     {
         panelMuerte.SetActive(true);
-
         Time.timeScale = 0f;
     }
 
@@ -57,7 +52,6 @@ public class GameOverManager : MonoBehaviour
     public void IrMenuPrincipal()
     {
         Time.timeScale = 1f;
-
         SceneManager.LoadScene("MenuPrincipal");
     }
 
@@ -67,7 +61,6 @@ public class GameOverManager : MonoBehaviour
         puntosTotales += puntos;
 
         ActualizarHUD();
-
         VerificarVictoria();
     }
 
@@ -76,9 +69,7 @@ public class GameOverManager : MonoBehaviour
         puntosDiamantes += puntos;
         puntosTotales += puntos;
 
-
         ActualizarHUD();
-
         VerificarVictoria();
     }
 
@@ -88,34 +79,40 @@ public class GameOverManager : MonoBehaviour
             "Hongos: " +
             puntosHongos +
             "/" +
-            totalHongos;
+            metaHongos;
 
         textoDiamantes.text =
             "Diamantes: " +
             puntosDiamantes +
             "/" +
-            totalDiamantes;
+            metaDiamantes;
 
         textoTotal.text =
             "Puntos Totales: " +
             puntosTotales;
     }
 
-    void VerificarVictoria()
+    public void VerificarVictoria()
     {
+        Debug.Log(
+            "Hongos: " + puntosHongos +
+            " | Diamantes: " + puntosDiamantes +
+            " | Item: " + tieneItemEspecial
+        );
+
         if (
-        puntosHongos >= 150 &&
-        puntosDiamantes >= 100 &&
-        tieneItemEspecial)
+            puntosHongos >= metaHongos &&
+            puntosDiamantes >= metaDiamantes &&
+            tieneItemEspecial
+        )
         {
             panelVictoria.SetActive(true);
+
             Time.timeScale = 0f;
+
             Debug.Log("¡VICTORIA!");
         }
     }
-
-
-
 }
 
 

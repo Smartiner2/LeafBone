@@ -10,7 +10,7 @@ public class ItemEspecial : MonoBehaviour
 
             Debug.Log("Item especial conseguido");
 
-            GameOverManager.instance.SendMessage("VerificarVictoria");
+            GameOverManager.instance.VerificarVictoria();
 
             Destroy(gameObject);
         }

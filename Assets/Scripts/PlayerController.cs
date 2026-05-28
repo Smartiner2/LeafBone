@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    private float velocidadNormal;
 
     public Transform groundCheck;
     public LayerMask groundLayer;
@@ -19,6 +20,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        velocidadNormal = moveSpeed; 
     }
 
     // Update se llama una vez por frame (ideal para inputs)
@@ -67,14 +69,26 @@ public class PlayerController : MonoBehaviour
     }
 
     void OnDrawGizmosSelected()
-{
-    if (groundCheck != null)
     {
+        if (groundCheck != null)
+        {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(
             groundCheck.position,
-            groundCheckRadius
-        );
+            groundCheckRadius);
+        }
     }
+
+    public void ReducirVelocidad(float nuevaVelocidad)
+{
+    moveSpeed = nuevaVelocidad;
 }
+
+public void RestaurarVelocidad()
+{
+    moveSpeed = velocidadNormal;
+}
+
+
+
 }
