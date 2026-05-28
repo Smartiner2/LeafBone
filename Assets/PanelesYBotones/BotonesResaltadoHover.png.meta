@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: d92ad96645fdb8a448a81e0f938dfb08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -356401093947353409
+    second: BotonesResaltadoHover_0
+  - first:
+      213: -1680596030792288590
+    second: BotonesResaltadoHover_1
+  - first:
+      213: -4553742458060790155
+    second: BotonesResaltadoHover_2
+  - first:
+      213: -8272838732501089671
+    second: BotonesResaltadoHover_3
+  - first:
+      213: -3956422224546599732
+    second: BotonesResaltadoHover_4
+  - first:
+      213: -8851641570059843386
+    second: BotonesResaltadoHover_5
+  - first:
+      213: -4376273256220173206
+    second: BotonesResaltadoHover_6
+  - first:
+      213: 2268875982915752239
+    second: BotonesResaltadoHover_7
+  - first:
+      213: 2469001396830107050
+    second: BotonesResaltadoHover_8
+  - first:
+      213: 8005660035758894645
+    second: BotonesResaltadoHover_9
+  - first:
+      213: -4787504464660159813
+    second: BotonesResaltadoHover_10
+  - first:
+      213: 6597729047285229347
+    second: BotonesResaltadoHover_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 835
+        width: 511
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb615b5e71fcd0bf0800000000000000
+      internalID: -356401093947353409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_1
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 836
+        width: 521
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6b1bd60d25da8e0800000000000000
+      internalID: -1680596030792288590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 700
+        width: 511
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762ca47c5bddc0c0800000000000000
+      internalID: -4553742458060790155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_3
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 701
+        width: 520
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720e211109f03d80800000000000000
+      internalID: -8272838732501089671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_4
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 463
+        width: 304
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc6074e2f6f719c0800000000000000
+      internalID: -3956422224546599732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 571
+        width: 509
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c88089d3e6a82580800000000000000
+      internalID: -8851641570059843386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 572
+        width: 523
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c54f2f8aa5443c0800000000000000
+      internalID: -4376273256220173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 446
+        width: 511
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21db197faaac7f10800000000000000
+      internalID: 2268875982915752239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 446
+        width: 523
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5700860b7a34220800000000000000
+      internalID: 2469001396830107050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 324
+        width: 510
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e23fff261d91f60800000000000000
+      internalID: 8005660035758894645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 324
+        width: 523
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a55ffd0e5f8db0800000000000000
+      internalID: -4787504464660159813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonesResaltadoHover_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 204
+        width: 488
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32766bbbc97df8b50800000000000000
+      internalID: 6597729047285229347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BotonesResaltadoHover_0: -356401093947353409
+      BotonesResaltadoHover_1: -1680596030792288590
+      BotonesResaltadoHover_10: -4787504464660159813
+      BotonesResaltadoHover_11: 6597729047285229347
+      BotonesResaltadoHover_2: -4553742458060790155
+      BotonesResaltadoHover_3: -8272838732501089671
+      BotonesResaltadoHover_4: -3956422224546599732
+      BotonesResaltadoHover_5: -8851641570059843386
+      BotonesResaltadoHover_6: -4376273256220173206
+      BotonesResaltadoHover_7: 2268875982915752239
+      BotonesResaltadoHover_8: 2469001396830107050
+      BotonesResaltadoHover_9: 8005660035758894645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
